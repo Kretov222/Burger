@@ -1,5 +1,7 @@
+import { Header } from './features/header/header.component';
+
 function App() {
-  return <> </>;
+  return <Header />;
 }
 
 export default App;
