@@ -1,6 +1,7 @@
+import { Header } from './features/header/header.component';
+
 function App() {
-  // Добавить Header
-  return <></>;
+  return <Header />;
 }
 
 export default App;
